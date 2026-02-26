@@ -1,0 +1,15 @@
+body{ /* Body */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; /* Font 1*/
+    color: navy; /* Color 1 */
+    background-color: lightskyblue; /* Background color */
+}
+
+h2{ /* H2 */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Font 2 */
+    color: darkslateblue /* Color 2 */
+}
+
+p{ /* Paragraph */
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif'; /* Font 3 */
+    color:blue; /* Color 3 */
+}
